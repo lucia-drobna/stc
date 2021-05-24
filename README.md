@@ -1,13 +1,6 @@
-# Microsoft Learn a GitHub
+# NodeJS ŠTC Project
 
-## Meno
-
-Lucia Drobná
-
-## Learning path
-
-Analýza údajov v službe Power BI
-
-### Odkaz
-
-https://docs.microsoft.com/sk-sk/users/luciadrobn-4320/achievements
+Commands in order:
+- npm install #Install project
+- tsc #Compile to JavaScript
+- npm run start #Start the project
